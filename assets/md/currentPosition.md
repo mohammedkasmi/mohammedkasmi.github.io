@@ -70,4 +70,4 @@ As the Leader of Global Software Development team at Sumitomo group, i m respons
 
 4. **Cross-Functional Collaboration:** Promote effective collaboration and communication between software engineering and other departments by demand management process.
 
-5. **Talent Retention:** Develop and implement strategies to attract and retain top talent within the global software engineering teams.
+5. **Talent Retention:** Develop and implement strategies to attract and retain top talent within the global software development team.
